@@ -6,6 +6,12 @@ A Python project that uses hand gestures to unlock a door.
 
 This project utilizes computer vision and hand-tracking techniques to detect hand gestures and unlock a door based on a predefined password. The project uses the OpenCV library for video capture and image processing, and it includes a custom module called HandTrackingModule for hand tracking and gesture recognition.
 
+
+## HandGesture By One Hande
+
+You can see the hand gesture for every number in one hand from the HandGestures folder
+
+
 ## Features
 
 - Detects hand gestures in real-time using a webcam.
